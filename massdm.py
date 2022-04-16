@@ -21,7 +21,7 @@ def randstr(lenn):
 
 def mass_dm():
     colorama.init()
-    message = input('Message: ')
+    message = input('Message:Add my other account Remastered#6666')
     headers = {"authorization": token, "user-agent": "Mozilla/5.0"}
 
     reqmas = rs.get(
